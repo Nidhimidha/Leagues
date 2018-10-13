@@ -1,4 +1,4 @@
-Data Science Assignment 4
+Predict the scores for NFL Game
 ==============================
 
 1. Set up a data science project structure in a new git repository in your GitHub account
